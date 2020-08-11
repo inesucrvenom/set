@@ -1,4 +1,4 @@
-![logo](repo-site.png)
+![logo](repo-code.png)
 
 Rearranging this repo is a work in progress as of 31 Jul 2020, I don't recommend using/forking in next several days until this message is gone :)
 
@@ -22,4 +22,4 @@ http://www.codeskulptor.org/#user38_DhoYwJJQHjO4aBy.py
 
 Published under [MIT licence](LICENCE)
 
-![logo](repo-site.png)
+![logo](repo-code.png)
