@@ -1,6 +1,6 @@
-![logo](repo-code.png)
+![logo](repo-python.png)
 
-Rearranging this repo is a work in progress as of 31 Jul 2020, I don't recommend using/forking in next several days until this message is gone :)
+Rearranging this repo is a work in progress as of 31 Jul 2020, I don't recommend using/forking in next several weeks, until this message is gone :)
 
 # set
 MVP Set game made to work in codeskulptor.
@@ -18,8 +18,6 @@ http://www.codeskulptor.org/#user38_DhoYwJJQHjO4aBy.py
 
 
 ## Licence
-**Tl;dr: Learn/use, don't present materials as yours.**
-
 Published under [MIT licence](LICENCE)
 
-![logo](repo-code.png)
+![logo](repo-python.png)
