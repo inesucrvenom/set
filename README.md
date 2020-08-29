@@ -10,7 +10,7 @@ Read [game rules](http://en.wikipedia.org/wiki/Set_%28game%29)
 Inspired by Set (c) by Set Enteprises, Inc.
 
 ## Rough explanation in one picture what set is:
-![logo](assets/set30-examples.png)
+![set-example](assets/set30-examples.png)
 
 
 ## details
